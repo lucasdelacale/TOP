@@ -37,7 +37,9 @@ button {
   border-radius: 8px;
   background: rebeccapurple;
   color: white;
+  margin: 16px;
   padding: 8px 24px;
+  flex-direction:row;
 }
 
 a {
